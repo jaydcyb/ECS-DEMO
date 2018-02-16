@@ -1,7 +1,7 @@
 FROM httpd
 
 # File Author / Maintainer
-MAINTAINER bhargav reddy
+MAINTAINER jay dhamale
 
 COPY . /usr/local/apache2/htdocs
 
